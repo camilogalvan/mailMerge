@@ -6,7 +6,8 @@ Note: In the spreadsheet only one link to the document is allowed and it must be
 Case study:
 A financial company obtains its debtors report in a spreadsheet, wants to send an email to each debtor to inform him what he owes and until when he can pay.
 
-Youtube link to see the code executing: 
+Youtube link to see the code executing: https://youtu.be/E3NXO_3vQ_E
+
  */
 
 function sendEmails() {
