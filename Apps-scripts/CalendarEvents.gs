@@ -1,4 +1,9 @@
 
+
+/**
+* Use Docs, gmail, forms, SpreadSheet, Calendar and Google Maps
+*/
+
 /**
  * A special function that inserts a custom menu when the spreadsheet opens.
  */
