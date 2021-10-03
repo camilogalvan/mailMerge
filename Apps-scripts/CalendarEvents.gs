@@ -1,8 +1,11 @@
 
 
 /**
-* Use Docs, gmail, forms, SpreadSheet, Calendar and Google Maps
-*/
+ * I Use Docs, gmail, forms, SpreadSheet, Calendar and Google Maps.
+ * Explanation of the code: https://youtu.be/7vqfpQM7_x4
+ * Camilo Galvan - 1151776
+ */
+
 
 /**
  * A special function that inserts a custom menu when the spreadsheet opens.
